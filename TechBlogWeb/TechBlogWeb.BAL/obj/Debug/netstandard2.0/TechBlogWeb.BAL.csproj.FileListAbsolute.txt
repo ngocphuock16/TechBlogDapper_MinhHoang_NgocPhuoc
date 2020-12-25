@@ -1,0 +1,16 @@
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.BAL\bin\Debug\netstandard2.0\TechBlogWeb.BAL.deps.json
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.BAL\bin\Debug\netstandard2.0\TechBlogWeb.BAL.dll
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.BAL\bin\Debug\netstandard2.0\TechBlogWeb.BAL.pdb
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.BAL\bin\Debug\netstandard2.0\TechBlogWeb.BAL.Interface.dll
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.BAL\bin\Debug\netstandard2.0\TechBlogWeb.DAL.Interface.dll
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.BAL\bin\Debug\netstandard2.0\TechBlogWeb.Domain.dll
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.BAL\bin\Debug\netstandard2.0\TechBlogWeb.BAL.Interface.pdb
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.BAL\bin\Debug\netstandard2.0\TechBlogWeb.DAL.Interface.pdb
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.BAL\bin\Debug\netstandard2.0\TechBlogWeb.Domain.pdb
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.BAL\obj\Debug\netstandard2.0\TechBlogWeb.BAL.csprojAssemblyReference.cache
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.BAL\obj\Debug\netstandard2.0\TechBlogWeb.BAL.AssemblyInfoInputs.cache
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.BAL\obj\Debug\netstandard2.0\TechBlogWeb.BAL.AssemblyInfo.cs
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.BAL\obj\Debug\netstandard2.0\TechBlogWeb.BAL.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.BAL\obj\Debug\netstandard2.0\TechBlogWeb.BAL.csproj.CopyComplete
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.BAL\obj\Debug\netstandard2.0\TechBlogWeb.BAL.dll
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.BAL\obj\Debug\netstandard2.0\TechBlogWeb.BAL.pdb

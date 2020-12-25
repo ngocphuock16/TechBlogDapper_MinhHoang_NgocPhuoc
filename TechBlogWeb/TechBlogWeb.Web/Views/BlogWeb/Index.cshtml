@@ -1,0 +1,59 @@
+﻿@model IEnumerable<TechBlogWeb.Domain.Response.Blog.Blog>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutDashBoard.cshtml";
+}
+<div class="main-container">
+    <h1>Blog</h1>
+    <br />
+    <a asp-controller="BlogWeb" asp-action="CreateBlog" class="btn btn-primary mb-2">Create Blog</a>
+
+    <table class="table table-bordered table-hover" id="tbCategory">
+        <thead class="thead-dark">
+            <tr>
+                <th>Id</th>               
+                <th>PublishDate</th>
+                <th>Title</th>
+                <th>ShortContent</th>
+                <th>FullContent</th>
+                <th>CategoryName</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @item.BlogId
+                </td>
+                <td>
+                    @item.PublishDate
+                </td>
+                <td>
+                    @item.Title
+                </td>
+                <td>
+                    @item.ShortContent
+                </td>
+                <td>
+                    @item.FullContent
+                </td>
+                <td>
+                    @item.CategoryName
+                </td>
+                <td>
+                    <a asp-controller="BlogWeb" asp-action="UpdateBlog" asp-route-Id="@item.BlogId" class="btn  btn-sm btn-success">Update</a>
+                    <a asp-controller="BlogWeb" asp-action="Delete" asp-route-Id="@item.BlogId" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+    <br /><br />
+</div>
+
+
+@section Scripts{
+    <script src="~/techblogJS/category.js" asp-append-version="true"></script>
+}

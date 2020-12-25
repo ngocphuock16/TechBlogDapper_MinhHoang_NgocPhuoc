@@ -1,0 +1,43 @@
+﻿@model IEnumerable<TechBlogWeb.Domain.Response.Category.Category>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutDashBoard.cshtml";
+}
+<div class="main-container">
+    <h1>Category</h1>
+    <br />
+    <a asp-controller="CategoryWeb" asp-action="CreateCategory" class="btn btn-primary mb-2">Create Category</a>
+   
+        <table class="table table-bordered table-hover" id="tbCategory">
+            <thead class="thead-dark" >
+                <tr>
+                    <th>Id</th>
+                    <th>Category Name</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @item.CategoryId
+                        </td>
+                        <td>
+                            @item.CategoryName
+                        </td>
+                        <td>
+                            <a asp-controller="CategoryWeb" asp-action="UpdateCategory" asp-route-Id="@item.CategoryId" class="btn  btn-sm btn-success">Update</a>
+                            <a asp-controller="CategoryWeb" asp-action="Delete" asp-route-Id="@item.CategoryId" class="btn btn-sm btn-danger">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    
+</div>
+
+
+@section Scripts{
+    <script src="~/techblogJS/category.js" asp-append-version="true"></script>
+}

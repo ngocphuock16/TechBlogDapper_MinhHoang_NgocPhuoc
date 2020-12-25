@@ -1,0 +1,33 @@
+﻿@model TechBlogWeb.Domain.Request.Category.CreateCategoryRequest
+@{
+    ViewData["Title"] = "CreateCategory";
+    Layout = "~/Views/Shared/_LayoutDashBoard.cshtml";
+}
+
+<div class="main-container">
+    <form asp-controller="CategoryWeb" asp-action="CreateCategory" method="POST" enctype="multipart/form-data">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="row form-group">
+            <div class="col-3">
+                <label asp-for="CategoryName"></label>
+            </div>
+            <div class="col-9">
+                <input asp-for="CategoryName" class="form-control" />
+
+                <span asp-validation-for="CategoryName" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <button type="submit" class="btn btn-primary">Save</button>
+                <a asp-controller="CategoryWeb" asp-action="Index" class="btn btn-success">Back</a>
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

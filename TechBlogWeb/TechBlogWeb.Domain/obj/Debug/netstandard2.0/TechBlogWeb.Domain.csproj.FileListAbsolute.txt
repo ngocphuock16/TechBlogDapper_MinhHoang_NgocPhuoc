@@ -1,0 +1,9 @@
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.Domain\bin\Debug\netstandard2.0\TechBlogWeb.Domain.deps.json
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.Domain\bin\Debug\netstandard2.0\TechBlogWeb.Domain.dll
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.Domain\bin\Debug\netstandard2.0\TechBlogWeb.Domain.pdb
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.Domain\obj\Debug\netstandard2.0\TechBlogWeb.Domain.csprojAssemblyReference.cache
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.Domain\obj\Debug\netstandard2.0\TechBlogWeb.Domain.AssemblyInfoInputs.cache
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.Domain\obj\Debug\netstandard2.0\TechBlogWeb.Domain.AssemblyInfo.cs
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.Domain\obj\Debug\netstandard2.0\TechBlogWeb.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.Domain\obj\Debug\netstandard2.0\TechBlogWeb.Domain.dll
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.Domain\obj\Debug\netstandard2.0\TechBlogWeb.Domain.pdb

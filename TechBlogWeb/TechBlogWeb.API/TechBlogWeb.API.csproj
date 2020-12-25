@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TechBlogWeb.BAL.Interface\TechBlogWeb.BAL.Interface.csproj" />
+    <ProjectReference Include="..\TechBlogWeb.BAL\TechBlogWeb.BAL.csproj" />
+    <ProjectReference Include="..\TechBlogWeb.DAL\TechBlogWeb.DAL.csproj" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XnoHQVFGiVlmT58vYYRRaOCxxfdzTvrVMUrhgtEZ0peKRpAGCB5iKqoVd8dZ45rOPOwFqk3u62AzRZBPTJzgmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.DAL.Interface\\TechBlogWeb.DAL.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SONY\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SONY\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\SONY\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

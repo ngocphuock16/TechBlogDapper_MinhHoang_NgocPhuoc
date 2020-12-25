@@ -1,0 +1,14 @@
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.DAL\bin\Debug\netcoreapp3.1\TechBlogWeb.DAL.Interface.dll
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.DAL\bin\Debug\netcoreapp3.1\TechBlogWeb.Domain.dll
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.DAL\obj\Debug\netcoreapp3.1\TechBlogWeb.DAL.csprojAssemblyReference.cache
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.DAL\obj\Debug\netcoreapp3.1\TechBlogWeb.DAL.AssemblyInfoInputs.cache
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.DAL\obj\Debug\netcoreapp3.1\TechBlogWeb.DAL.AssemblyInfo.cs
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.DAL\bin\Debug\netcoreapp3.1\TechBlogWeb.DAL.deps.json
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.DAL\bin\Debug\netcoreapp3.1\TechBlogWeb.DAL.dll
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.DAL\bin\Debug\netcoreapp3.1\TechBlogWeb.DAL.pdb
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.DAL\bin\Debug\netcoreapp3.1\TechBlogWeb.DAL.Interface.pdb
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.DAL\bin\Debug\netcoreapp3.1\TechBlogWeb.Domain.pdb
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.DAL\obj\Debug\netcoreapp3.1\TechBlogWeb.DAL.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.DAL\obj\Debug\netcoreapp3.1\TechBlogWeb.DAL.csproj.CopyComplete
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.DAL\obj\Debug\netcoreapp3.1\TechBlogWeb.DAL.dll
+C:\Users\SONY\source\repos\TechBlogWeb\TechBlogWeb.DAL\obj\Debug\netcoreapp3.1\TechBlogWeb.DAL.pdb
