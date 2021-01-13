@@ -26,7 +26,7 @@ https://themewagon.com/themes/free-responsive-bootstrap-4-html5-admin-dashboard-
     <img src="https://user-images.githubusercontent.com/74942074/104408966-d3fe1980-5597-11eb-9125-ebade4ae7a81.PNG"</img> 
 </div>
 <br>
-<b>*Thiết kế database:</b> <br><br>
+<b>*Thiết kế database và mô hình mối quan hệ - thực thể :</b> <br><br>
 <div align="center"> 
     <img src="https://user-images.githubusercontent.com/74942074/104409138-2a6b5800-5598-11eb-9bc9-6fba8e2d08a2.PNG"</img> 
 </div> 
