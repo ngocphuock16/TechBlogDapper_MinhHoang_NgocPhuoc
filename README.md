@@ -1,13 +1,14 @@
 # TechBlogDapper_MinhHoang_NgocPhuoc
-<b>Dự án Website Blog Công Nghệ sử dụng ASP.NET with MVC</b>
+<b>Dự án Website Blog Công Nghệ sử dụng ASP.NET with MVC do Team Minh Hoàng - Ngọc Phước thực hiện</b>
 <br><br>
-<b>Template và Admin được dùng:</b>
+<b>*Template và Admin được dùng:</b>
 <br>
 <p>Template:
 https://themewagon.com/themes/free-bootstrap-4-html5-professional-business-website-template-favison/
-Admin:
-https://themewagon.com/themes/free-responsive-bootstrap-4-html5-admin-dashboard-template-deskapp/
 </p>
+<br>
+<p>Admin:
+https://themewagon.com/themes/free-responsive-bootstrap-4-html5-admin-dashboard-template-deskapp/</p>
 <br><br>
 
 <b>*Các Frameworks và Packages được sử dụng trong dự án:</b><br>
