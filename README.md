@@ -30,4 +30,9 @@ https://themewagon.com/themes/free-responsive-bootstrap-4-html5-admin-dashboard-
 <div align="center"> 
     <img src="https://user-images.githubusercontent.com/74942074/104409138-2a6b5800-5598-11eb-9bc9-6fba8e2d08a2.PNG"</img> 
 </div> 
+<br>
+<b>*Trang dành cho người quản trị website, bao gồm các chức năng: Thêm, Cập nhật, Xóa Cơ sở dữ liệu:</b> <br><br>
+<div align="center"> 
+    <img src="https://user-images.githubusercontent.com/74942074/104409508-02c8bf80-5599-11eb-8135-003912bfe734.PNG"</img> 
+</div>
 
