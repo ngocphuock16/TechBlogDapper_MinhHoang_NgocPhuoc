@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using TechBlogWeb.Domain.Response.About;
 
 namespace TechBlogWeb.Web.Controllers
 {
@@ -10,7 +11,9 @@ namespace TechBlogWeb.Web.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            List<About> abouts = new List<About>();
+            abouts = Helper.ApiHelper<List<About>>.HttpGetAsync("api/about/gets");
+            return View(abouts);
         }
     }
 }

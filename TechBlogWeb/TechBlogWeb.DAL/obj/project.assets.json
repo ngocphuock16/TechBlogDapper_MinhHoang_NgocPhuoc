@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.DAL\\TechBlogWeb.DAL.csproj",
+      "projectUniqueName": "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.DAL\\TechBlogWeb.DAL.csproj",
       "projectName": "TechBlogWeb.DAL",
-      "projectPath": "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.DAL\\TechBlogWeb.DAL.csproj",
+      "projectPath": "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.DAL\\TechBlogWeb.DAL.csproj",
       "packagesPath": "C:\\Users\\SONY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.DAL\\obj\\",
+      "outputPath": "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SONY\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -713,8 +713,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.DAL.Interface\\TechBlogWeb.DAL.Interface.csproj": {
-              "projectPath": "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.DAL.Interface\\TechBlogWeb.DAL.Interface.csproj"
+            "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.DAL.Interface\\TechBlogWeb.DAL.Interface.csproj": {
+              "projectPath": "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.DAL.Interface\\TechBlogWeb.DAL.Interface.csproj"
             }
           }
         }

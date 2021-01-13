@@ -1,12 +1,14 @@
-﻿<section class="home_banner_area">
+﻿
+<section class="home_banner_area">
     <div class="banner_inner d-flex align-items-center">
         <div class="overlay"></div>
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 offset-lg-6 col-xl-5 offset-xl-7">
                     <div class="banner_content">
-                        <h3>Build a better<br />business & faster</h3>
-                        <p>Subdue creature does face signs evening good sixth foreign gaered one. Fruit. Third every fruitful multiply subdue creature doesn't face signs evening good sixth tyou're.</p>
+                        @*Đổ dữ liệu bảng Home*@
+                        <h3 id="title" style="font-size:40px"></h3>
+                        <p id="content"></p>
                         <a class="banner_btn" asp-controller="Blog" asp-action="Index">XEM TẤT CẢ BLOG<i class="ti-arrow-right"></i></a>
                     </div>
                 </div>
@@ -29,7 +31,7 @@
                     <div class="service-content">
                         <h5>Unique Design</h5>
                         <p>Third don't lights wherein was. bring to build them, seas. Thing gathering answ gaered beast third that heaven after all that living one bank limit</p>
-                        
+
                     </div>
                 </div>
             </div>
@@ -43,7 +45,7 @@
                     <div class="service-content">
                         <h5>Business Solution</h5>
                         <p>Third don't lights wherein was. bring to build them, seas. Thing gathering answ gaered beast third that heaven after all that living one bank limit</p>
-                       
+
                     </div>
                 </div>
             </div>
@@ -58,7 +60,7 @@
                     <div class="service-content">
                         <h5>Customer Support</h5>
                         <p>Third don't lights wherein was. bring to build them, seas. Thing gathering answ gaered beast third that heaven after all that living one bank limit</p>
-                       
+
                     </div>
                 </div>
             </div>
@@ -74,10 +76,10 @@
 
             <div class="col-lg-6">
                 <div class="area-heading">
-                    <h4>Form Female From<br>Cattle Evening. </h4>
-                    <h6>And appear great open bearing evening dominion vodi </h6>
-
-                    <p>There earth face earth behold. She'd stars made void two given do and also. Our own grass days.  Greater male Shall There faced earth behold She star</p>
+                    @*Đổ dữ liệu bảng About*@
+                    <h4 id="tieude"></h4>
+                    <h6 id="shortnoidung"></h6>
+                    <p id="fullnoidung"></p>
                 </div>
                 <div class="row">
                     <div class="col-md-6 col-lg-6">
@@ -115,8 +117,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-12">
                 <div class="area-heading">
-                    <h4>Read Our Latest News</h4>
-                    <p>Life firmament under them evening make after called dont saying likeness<br> isn't wherein also forth she'd air two without</p>
+                    <h4>Xem các tin tức mới nhất</h4>                  
                 </div>
             </div>
         </div>
@@ -272,3 +273,6 @@
         </div>
     </div>
 </section>
+@section Scripts{
+    <script src="~/techblogJS/homeblog.js" asp-append-version="true"></script>
+}

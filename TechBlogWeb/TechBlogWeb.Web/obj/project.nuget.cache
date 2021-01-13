@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gJDzHxKielGes/Wk4xZmZ44CMmltI9wb5kVuZ4IJHqSJOcMqf/npcO08aPJhXzn0NtPnwJoTUMJ9SluC4fAgKg==",
+  "dgSpecHash": "2OV5tdDIdWVC2sRp4qjozAKU+PtIv/i2MPhr8T60lKUjlnNB7S17RCA+E21wFVNQaZLc9dGeTAl4z4ujJZ4BxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.Web\\TechBlogWeb.Web.csproj",
+  "projectFilePath": "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.Web\\TechBlogWeb.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SONY\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\SONY\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

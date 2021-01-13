@@ -340,11 +340,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.BAL\\TechBlogWeb.BAL.csproj",
+      "projectUniqueName": "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.BAL\\TechBlogWeb.BAL.csproj",
       "projectName": "TechBlogWeb.BAL",
-      "projectPath": "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.BAL\\TechBlogWeb.BAL.csproj",
+      "projectPath": "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.BAL\\TechBlogWeb.BAL.csproj",
       "packagesPath": "C:\\Users\\SONY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.BAL\\obj\\",
+      "outputPath": "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.BAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SONY\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -361,11 +361,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.BAL.Interface\\TechBlogWeb.BAL.Interface.csproj": {
-              "projectPath": "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.BAL.Interface\\TechBlogWeb.BAL.Interface.csproj"
+            "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.BAL.Interface\\TechBlogWeb.BAL.Interface.csproj": {
+              "projectPath": "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.BAL.Interface\\TechBlogWeb.BAL.Interface.csproj"
             },
-            "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.DAL.Interface\\TechBlogWeb.DAL.Interface.csproj": {
-              "projectPath": "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.DAL.Interface\\TechBlogWeb.DAL.Interface.csproj"
+            "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.DAL.Interface\\TechBlogWeb.DAL.Interface.csproj": {
+              "projectPath": "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.DAL.Interface\\TechBlogWeb.DAL.Interface.csproj"
             }
           }
         }

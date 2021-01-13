@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lnLK6j7Sajwns9RbduhI/4x5QgLEQaqT12GpLFY51hz5PpOoQj+ZmI8cYyn/GyQtfH4jKPLDKbH4tYv2NmpPtQ==",
+  "dgSpecHash": "9ao1uFaxp0S9qsIttvgudK64gOiVyRPC6RrXEiGobknPeSCRrQdlAX18ZP4dLDv8v9BKykvpUPkVC8VZJGthdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.DAL\\TechBlogWeb.DAL.csproj",
+  "projectFilePath": "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.DAL\\TechBlogWeb.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SONY\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\SONY\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

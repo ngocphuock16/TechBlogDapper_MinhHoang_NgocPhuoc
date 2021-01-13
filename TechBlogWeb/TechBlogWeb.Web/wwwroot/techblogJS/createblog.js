@@ -43,4 +43,4 @@ $(document).ready(function () {
     category.init();
     $('#tbCategory').DataTable(
     );
-}
+}); 

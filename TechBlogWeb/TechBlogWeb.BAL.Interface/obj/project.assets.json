@@ -303,11 +303,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.BAL.Interface\\TechBlogWeb.BAL.Interface.csproj",
+      "projectUniqueName": "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.BAL.Interface\\TechBlogWeb.BAL.Interface.csproj",
       "projectName": "TechBlogWeb.BAL.Interface",
-      "projectPath": "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.BAL.Interface\\TechBlogWeb.BAL.Interface.csproj",
+      "projectPath": "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.BAL.Interface\\TechBlogWeb.BAL.Interface.csproj",
       "packagesPath": "C:\\Users\\SONY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.BAL.Interface\\obj\\",
+      "outputPath": "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.BAL.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SONY\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -324,8 +324,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.Domain\\TechBlogWeb.Domain.csproj": {
-              "projectPath": "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.Domain\\TechBlogWeb.Domain.csproj"
+            "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.Domain\\TechBlogWeb.Domain.csproj": {
+              "projectPath": "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.Domain\\TechBlogWeb.Domain.csproj"
             }
           }
         }

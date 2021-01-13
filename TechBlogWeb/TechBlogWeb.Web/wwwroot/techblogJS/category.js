@@ -41,14 +41,5 @@ category.init = function () {
 
 $(document).ready(function () {
     category.init();
-    $('#tbCategory').DataTable({
-        "columns": [
-            null,
-            { "width": "10%" },
-            null,
-            null,
-            null,
-            null, null, null
-        ]
-    });
+    $('#tbCategory').DataTable();
 });

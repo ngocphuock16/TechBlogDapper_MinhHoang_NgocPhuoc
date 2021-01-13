@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8j51yTtD1gT55/iWnywVkf8Kc93ZSb2Umte09tYfoNrgNn3jqpSi8cGuR8ZQnNwKy3ZW8OHN2H5ThaCkHIJ3gw==",
+  "dgSpecHash": "h1jOgE+rLZ2JLox6ta+GHx8voSfyUcKN7GdhRmbOJzVTnFWxBH0A2ZIwL0QMCkqX/eOREQO4gzrfY+qVM5Gklg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SONY\\source\\repos\\TechBlogWeb\\TechBlogWeb.BAL.Interface\\TechBlogWeb.BAL.Interface.csproj",
+  "projectFilePath": "C:\\TechBlogDapper_MinhHoang_NgocPhuoc\\TechBlogWeb\\TechBlogWeb.BAL.Interface\\TechBlogWeb.BAL.Interface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SONY\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\SONY\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
